@@ -1,0 +1,5 @@
+# checklist
+
+- [ ] migration
+- [ ] envs
+- [ ] requirements

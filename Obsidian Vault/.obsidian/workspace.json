@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "103c72e1b582f51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f12ae5a703cbda7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8d023b7ec372109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front end/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34fb4dffb25bbd6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Gen AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f53471f20fe7b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Gen AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f8e7dc6c20f086b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Deep learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72cd2f2a33e6f8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/artificial intelligence (AI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d6e11deba5d4b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/neural networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdde3ea9496d4a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e383920537eb1c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18f33f9cd9ce5d14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eea77772f1faf19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d40b171a361f8a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e96366ece13323f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c14eb5e5d642524b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b5e683172efadee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Deep learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "272d89751d3e4f9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Deep learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "765b46d06646e51a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6f0608fd02d499d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Deep learning.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f8e7dc6c20f086b",
+  "lastOpenFiles": [
+    "markdown tuto.md",
+    "Job.md",
+    "JS/Node.md",
+    "Technologies/Building docker image.md",
+    "Fastapi/FastAPI.md",
+    "JS",
+    "JS/ECMAScript.md",
+    "AI/AI Agents.md",
+    "AI/Agentic RAG.md",
+    "JS/Javascript.md",
+    "2024-10-01.md",
+    "JS/JS.md",
+    "TODO.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "AI/Deep learning.md",
+    "AI/artificial intelligence (AI).md",
+    "AI/neural networks.md",
+    "AI/machine learning.md",
+    "AI/Gen AI.md",
+    "Pasted image 20241002171147.png",
+    "Pasted image 20241002171037.png",
+    "Pasted image 20241002170629.png",
+    "Untitled",
+    "Marlo AI/TODO.md",
+    "Resume.md",
+    "Front end/CSS.md",
+    "Pasted image 20240929155229.png",
+    "DSA/Graphs.md",
+    "Node",
+    "Web servers/Nginx.md",
+    "Fastapi/file structure.md",
+    "Fastapi",
+    "Pasted image 20240920161714.png",
+    "Front end",
+    "Pasted image 20240917142852.png",
+    "Langchain",
+    "Pasted image 20240916113913.png",
+    "Marlo AI",
+    "Technologies",
+    "Programming",
+    "Pasted image 20240910224835.png",
+    "Architectures",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20240906101256.png",
+    "Pasted image 20240906094221.png"
+  ]
+}

@@ -1,0 +1,6 @@
+- # chapter 26 switch case
+	- strict case
+	- after each case block need to write break
+- # chapter 27 - JS history
+	- when deploying in code in production, need to do transpiling which is convert latest code to ECMA5 using tool called BABEL.
+	- compatility table - which browsers support which features

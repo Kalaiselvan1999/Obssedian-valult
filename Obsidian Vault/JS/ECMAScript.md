@@ -1,0 +1,1 @@
+**ECMAScript** is like a rulebook for a language. It defines how the language should work, what it can do, and how different parts should interact. Think of it as the grammar and vocabulary of a language.
