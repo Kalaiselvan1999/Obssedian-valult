@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6f12ae5a703cbda7",
+        "id": "d0e991c14019630a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d023b7ec372109",
+            "id": "204737d52c8a9abc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front end/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34fb4dffb25bbd6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Gen AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f53471f20fe7b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Gen AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f8e7dc6c20f086b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Deep learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72cd2f2a33e6f8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/artificial intelligence (AI).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d6e11deba5d4b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/neural networks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Deep learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/Deep learning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -207,41 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f8e7dc6c20f086b",
+  "active": "204737d52c8a9abc",
   "lastOpenFiles": [
-    "markdown tuto.md",
-    "Job.md",
     "JS/Node.md",
+    "GANs.md",
+    "Personal/Resume.md",
+    "Concepts.md",
+    "Programming/cryptography.md",
+    "JS/ECMAScript.md",
+    "Programming/GIL.md",
+    "JS/JS.md",
+    "Personal/Job.md",
+    "Daily calendar.md",
+    "AI/neural networks.md",
+    "AI/artificial intelligence (AI).md",
+    "AI/Deep learning.md",
+    "AI/Gen AI.md",
+    "Front end/CSS.md",
+    "Personal",
+    "markdown tuto.md",
     "Technologies/Building docker image.md",
     "Fastapi/FastAPI.md",
     "JS",
-    "JS/ECMAScript.md",
     "AI/AI Agents.md",
     "AI/Agentic RAG.md",
     "JS/Javascript.md",
     "2024-10-01.md",
-    "JS/JS.md",
     "TODO.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled.canvas",
-    "AI/Deep learning.md",
-    "AI/artificial intelligence (AI).md",
-    "AI/neural networks.md",
     "AI/machine learning.md",
-    "AI/Gen AI.md",
     "Pasted image 20241002171147.png",
     "Pasted image 20241002171037.png",
     "Pasted image 20241002170629.png",
     "Untitled",
     "Marlo AI/TODO.md",
-    "Resume.md",
-    "Front end/CSS.md",
     "Pasted image 20240929155229.png",
-    "DSA/Graphs.md",
     "Node",
-    "Web servers/Nginx.md",
-    "Fastapi/file structure.md",
     "Fastapi",
     "Pasted image 20240920161714.png",
     "Front end",
@@ -252,7 +185,6 @@
     "Technologies",
     "Programming",
     "Pasted image 20240910224835.png",
-    "Architectures",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20240906101256.png",
